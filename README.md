@@ -5,6 +5,6 @@ My LeetCode Solutions in Python
 
 ## Arrays & Hashing
 
-* Contains Duplicate (Easy)
+* [Contains Duplicate (Easy)](/0217-contains-duplicate/)
 * Valid Anagram (Easy)
 * Two Sum (Easy)
