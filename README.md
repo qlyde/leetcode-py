@@ -29,4 +29,14 @@ My LeetCode Solutions in Python
 * [Longest Repeating Character Replacement (Medium)](0424-longest-repeating-character-replacement)
 * [Permutation In String (Medium)](0567-permutation-in-string)
 * [Minimum Window Substring (Hard)](0076-minimum-window-substring)
-* [Sliding Window Maximum (Hard)]
+* [Sliding Window Maximum (Hard)](0239-sliding-window-maximum)
+
+## Stack
+
+* [Valid Parentheses (Easy)]()
+* [Min Stack (Medium)]()
+* [Evaluate Reverse Polish Notation (Medium)]()
+* [Generate Parentheses (Medium)]()
+* [Daily Temperatures (Medium)]()
+* [Car Fleet (Medium)]()
+* [Largest Rectangle In Histogram (Hard)]()
