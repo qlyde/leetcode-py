@@ -33,10 +33,10 @@ My LeetCode Solutions in Python
 
 ## Stack
 
-* [Valid Parentheses (Easy)]()
-* [Min Stack (Medium)]()
-* [Evaluate Reverse Polish Notation (Medium)]()
-* [Generate Parentheses (Medium)]()
-* [Daily Temperatures (Medium)]()
-* [Car Fleet (Medium)]()
+* [Valid Parentheses (Easy)](0020-valid-parentheses)
+* [Min Stack (Medium)](0155-min-stack)
+* [Evaluate Reverse Polish Notation (Medium)](0150-evaluate-reverse-polish-notation)
+* [Generate Parentheses (Medium)](0022-generate-parentheses)
+* [Daily Temperatures (Medium)](0739-daily-temperatures)
+* [Car Fleet (Medium)](0883-car-fleet)
 * [Largest Rectangle In Histogram (Hard)]()
