@@ -24,9 +24,9 @@ My LeetCode Solutions in Python
 
 ## Sliding Window
 
-* Best Time to Buy And Sell Stock (Easy)
-* Longest Substring Without Repeating Characters (Medium)
-* Longest Repeating Character Replacement (Medium)
-* Permutation In String (Medium)
-* Minimum Window Substring (Hard)
-* Sliding Window Maximum (Hard)
+* [Best Time to Buy And Sell Stock (Easy)](0121-best-time-to-buy-and-sell-stock)
+* [Longest Substring Without Repeating Characters (Medium)](0003-longest-substring-without-repeating-characters)
+* [Longest Repeating Character Replacement (Medium)](0424-longest-repeating-character-replacement)
+* [Permutation In String (Medium)](0567-permutation-in-string)
+* [Minimum Window Substring (Hard)](0076-minimum-window-substring)
+* [Sliding Window Maximum (Hard)]
