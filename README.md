@@ -50,3 +50,17 @@ My LeetCode Solutions in Python
 * [Search In Rotated Sorted Array (Medium)](0033-search-in-rotated-sorted-array)
 * [Time Based Key Value Store (Medium)](1023-time-based-key-value-store)
 * Median of Two Sorted Arrays (Hard)
+
+## Linked List
+
+* [Reverse Linked List (Easy)]()
+* [Merge Two Sorted Lists (Easy)]()
+* [Reorder List (Medium)]()
+* [Remove Nth Node From End of List (Medium)]()
+* [Copy List With Random Pointer (Medium)]()
+* [Add Two Numbers (Medium)]()
+* [Linked List Cycle (Easy)]()
+* [Find The Duplicate Number (Medium)]()
+* [LRU Cache (Medium)]()
+* Merge K Sorted Lists (Hard)
+* Reverse Nodes In K Group (Hard)
