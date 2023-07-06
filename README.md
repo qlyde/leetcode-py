@@ -39,4 +39,14 @@ My LeetCode Solutions in Python
 * [Generate Parentheses (Medium)](0022-generate-parentheses)
 * [Daily Temperatures (Medium)](0739-daily-temperatures)
 * [Car Fleet (Medium)](0883-car-fleet)
-* [Largest Rectangle In Histogram (Hard)]()
+* Largest Rectangle In Histogram (Hard)
+
+## Binary Search
+
+* [Binary Search (Easy)]()
+* [Search a 2D Matrix (Medium)]()
+* [Koko Eating Bananas (Medium)]()
+* [Find Minimum In Rotated Sorted Array (Medium)]()
+* [Search In Rotated Sorted Array (Medium)]()
+* [Time Based Key Value Store (Medium)]()
+* Median of Two Sorted Arrays (Hard)
