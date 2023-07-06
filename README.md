@@ -43,10 +43,10 @@ My LeetCode Solutions in Python
 
 ## Binary Search
 
-* [Binary Search (Easy)]()
-* [Search a 2D Matrix (Medium)]()
-* [Koko Eating Bananas (Medium)]()
-* [Find Minimum In Rotated Sorted Array (Medium)]()
-* [Search In Rotated Sorted Array (Medium)]()
-* [Time Based Key Value Store (Medium)]()
+* [Binary Search (Easy)](0792-binary-search)
+* [Search a 2D Matrix (Medium)](0074-search-a-2d-matrix)
+* [Koko Eating Bananas (Medium)](0907-koko-eating-bananas)
+* [Find Minimum In Rotated Sorted Array (Medium)](0153-find-minimum-in-rotated-sorted-array)
+* [Search In Rotated Sorted Array (Medium)](0033-search-in-rotated-sorted-array)
+* [Time Based Key Value Store (Medium)](1023-time-based-key-value-store)
 * Median of Two Sorted Arrays (Hard)
