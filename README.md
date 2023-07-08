@@ -1,4 +1,5 @@
 # leetcode-py
+
 My LeetCode Solutions in Python
 
 # NeetCode 150
@@ -12,6 +13,9 @@ My LeetCode Solutions in Python
 5. [Binary Search (7)](#binary-search-7)
 6. [Linked List (11)](#linked-list-11)
 7. [Trees (15)](#trees-15)
+8. [Tries (3)](#tries-3)
+9. [Heap / Priority Queue (7)](#heap--priority-queue-7)
+10. [Backtracking (9)](#backtracking-9)
 
 ## Arrays & Hashing (9)
 
@@ -92,3 +96,31 @@ My LeetCode Solutions in Python
 * Construct Binary Tree From Preorder And Inorder Traversal (Medium)
 * Binary Tree Maximum Path Sum (Hard)
 * Serialize and Deserialize Binary Tree (Hard)
+
+## Tries (3)
+
+* Implement Trie Prefix Tree (Medium)
+* Design Add And Search Words Data Structure (Medium)
+* Word Search II (Hard)
+
+## Heap / Priority Queue (7)
+
+* Kth Largest Element In a Stream (Easy)
+* Last Stone Weight (Easy)
+* K Closest Points to Origin (Medium)
+* Kth Largest Element In An Array (Medium)
+* Task Scheduler (Medium)
+* Design Twitter (Medium)
+* Find Median From Data Stream (Hard)
+
+## Backtracking (9)
+
+* Subsets (Medium)
+* Combination Sum (Medium)
+* Permutations (Medium)
+* Subsets II (Medium)
+* Combination Sum II (Medium)
+* Word Search (Medium)
+* Palindrome Partitioning (Medium)
+* Letter Combinations of a Phone Number (Medium)
+* N Queens (Hard)
