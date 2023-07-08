@@ -3,7 +3,15 @@ My LeetCode Solutions in Python
 
 # NeetCode 150
 
-## Arrays & Hashing
+1. [Arrays & Hashing (9)](#arrays--hashing-9)
+2. [Two Pointers (5)](#two-pointers-5)
+3. [Sliding Window (6)](#sliding-window-6)
+4. [Stack (7)](#stack-7)
+5. [Binary Search (7)](#binary-search-7)
+6. [Linked List (11)](#linked-list-11)
+7. [Trees (15)](#trees-15)
+
+## Arrays & Hashing (9)
 
 * [Contains Duplicate (Easy)](0217-contains-duplicate)
 * [Valid Anagram (Easy)](0242-valid-anagram)
@@ -14,7 +22,7 @@ My LeetCode Solutions in Python
 * [Valid Sudoku (Medium)](0036-valid-sudoku)
 * [Longest Consecutive Sequence (Medium)](0128-longest-consecutive-sequence)
 
-## Two Pointers
+## Two Pointers (5)
 
 * [Valid Palindrome (Easy)](0125-valid-palindrome)
 * [Two Sum II Input Array Is Sorted (Medium)](0167-two-sum-ii-input-array-is-sorted)
@@ -22,7 +30,7 @@ My LeetCode Solutions in Python
 * [Container With Most Water (Medium)](0011-container-with-most-water)
 * [Trapping Rain Water (Hard)](0042-trapping-rain-water)
 
-## Sliding Window
+## Sliding Window (6)
 
 * [Best Time to Buy And Sell Stock (Easy)](0121-best-time-to-buy-and-sell-stock)
 * [Longest Substring Without Repeating Characters (Medium)](0003-longest-substring-without-repeating-characters)
@@ -31,7 +39,7 @@ My LeetCode Solutions in Python
 * [Minimum Window Substring (Hard)](0076-minimum-window-substring)
 * [Sliding Window Maximum (Hard)](0239-sliding-window-maximum)
 
-## Stack
+## Stack (7)
 
 * [Valid Parentheses (Easy)](0020-valid-parentheses)
 * [Min Stack (Medium)](0155-min-stack)
@@ -41,7 +49,7 @@ My LeetCode Solutions in Python
 * [Car Fleet (Medium)](0883-car-fleet)
 * Largest Rectangle In Histogram (Hard)
 
-## Binary Search
+## Binary Search (7)
 
 * [Binary Search (Easy)](0792-binary-search)
 * [Search a 2D Matrix (Medium)](0074-search-a-2d-matrix)
@@ -51,7 +59,7 @@ My LeetCode Solutions in Python
 * [Time Based Key Value Store (Medium)](1023-time-based-key-value-store)
 * Median of Two Sorted Arrays (Hard)
 
-## Linked List
+## Linked List (11)
 
 * [Reverse Linked List (Easy)](0206-reverse-linked-list)
 * [Merge Two Sorted Lists (Easy)](0021-merge-two-sorted-lists)
@@ -65,7 +73,7 @@ My LeetCode Solutions in Python
 * Merge K Sorted Lists (Hard)
 * Reverse Nodes In K Group (Hard)
 
-## Trees
+## Trees (15)
 
 * [Invert Binary Tree (Easy)](0226-invert-binary-tree)
 * [Maximum Depth of Binary Tree (Easy)](0104-maximum-depth-of-binary-tree)
