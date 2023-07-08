@@ -61,6 +61,6 @@ My LeetCode Solutions in Python
 * [Add Two Numbers (Medium)]()
 * [Linked List Cycle (Easy)]()
 * [Find The Duplicate Number (Medium)]()
-* [LRU Cache (Medium)]()
+* LRU Cache (Medium)
 * Merge K Sorted Lists (Hard)
 * Reverse Nodes In K Group (Hard)
