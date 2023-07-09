@@ -105,10 +105,10 @@ My LeetCode Solutions in Python
 
 ## Heap / Priority Queue (7)
 
-* Kth Largest Element In a Stream (Easy)
-* Last Stone Weight (Easy)
-* K Closest Points to Origin (Medium)
-* Kth Largest Element In An Array (Medium)
+* [Kth Largest Element In a Stream (Easy)](0789-kth-largest-element-in-a-stream)
+* [Last Stone Weight (Easy)](1127-last-stone-weight)
+* [K Closest Points to Origin (Medium)](1014-k-closest-points-to-origin)
+* [Kth Largest Element In An Array (Medium)](0215-kth-largest-element-in-an-array)
 * Task Scheduler (Medium)
 * Design Twitter (Medium)
 * Find Median From Data Stream (Hard)
