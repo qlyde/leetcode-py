@@ -26,6 +26,7 @@ My LeetCode Solutions in Python
 * [Top K Frequent Elements (Medium)](0347-top-k-frequent-elements)
 * [Product of Array Except Self (Medium)](0238-product-of-array-except-self)
 * [Valid Sudoku (Medium)](0036-valid-sudoku)
+* Encode and Decode Strings (Medium)
 * [Longest Consecutive Sequence (Medium)](0128-longest-consecutive-sequence)
 
 ## Two Pointers (5)
