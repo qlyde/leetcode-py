@@ -115,9 +115,9 @@ My LeetCode Solutions in Python
 
 ## Backtracking (9)
 
-* Subsets (Medium)
-* Combination Sum (Medium)
-* Permutations (Medium)
+* [Subsets (Medium)](0078-subsets)
+* [Combination Sum (Medium)](0039-combination-sum)
+* [Permutations (Medium)](0046-permutations)
 * Subsets II (Medium)
 * Combination Sum II (Medium)
 * Word Search (Medium)
