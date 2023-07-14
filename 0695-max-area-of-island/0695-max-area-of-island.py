@@ -31,4 +31,3 @@ class Solution:
                     area = dfs(grid, rows, cols, r, c, visited)
                     ret = max(ret, area)
         return ret
-        
