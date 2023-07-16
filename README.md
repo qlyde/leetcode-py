@@ -102,7 +102,7 @@ My LeetCode Solutions in Python
 * [Count Good Nodes In Binary Tree (Medium)](1544-count-good-nodes-in-binary-tree)
 * [Validate Binary Search Tree (Medium)](0098-validate-binary-search-tree)
 * [Kth Smallest Element In a Bst (Medium)](0230-kth-smallest-element-in-a-bst)
-* Construct Binary Tree From Preorder And Inorder Traversal (Medium)
+* [Construct Binary Tree From Preorder And Inorder Traversal (Medium)](0105-construct-binary-tree-from-preorder-and-inorder-traversal)
 * Binary Tree Maximum Path Sum (Hard)
 * Serialize and Deserialize Binary Tree (Hard)
 
