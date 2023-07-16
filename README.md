@@ -84,7 +84,7 @@ My LeetCode Solutions in Python
 * [Add Two Numbers (Medium)](0002-add-two-numbers)
 * [Linked List Cycle (Easy)](0141-linked-list-cycle)
 * [Find The Duplicate Number (Medium)](0287-find-the-duplicate-number)
-* LRU Cache (Medium)
+* [LRU Cache (Medium)](0146-lru-cache)
 * Merge K Sorted Lists (Hard)
 * Reverse Nodes In K Group (Hard)
 
