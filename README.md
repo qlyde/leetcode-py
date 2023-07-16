@@ -162,7 +162,7 @@ My LeetCode Solutions in Python
 ## 1D Dynamic Programming (12)
 
 * [Climbing Stairs (Easy)](0070-climbing-stairs)
-* Min Cost Climbing Stairs (Easy)
+* [Min Cost Climbing Stairs (Easy)](0746-min-cost-climbing-stairs]
 * House Robber (Medium)
 * House Robber II (Medium)
 * Longest Palindromic Substring (Medium)
