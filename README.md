@@ -161,7 +161,7 @@ My LeetCode Solutions in Python
 
 ## 1D Dynamic Programming (12)
 
-* Climbing Stairs (Easy)
+* [Climbing Stairs (Easy)](0070-climbing-stairs)
 * Min Cost Climbing Stairs (Easy)
 * House Robber (Medium)
 * House Robber II (Medium)
