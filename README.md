@@ -163,7 +163,7 @@ My LeetCode Solutions in Python
 
 * [Climbing Stairs (Easy)](0070-climbing-stairs)
 * [Min Cost Climbing Stairs (Easy)](0746-min-cost-climbing-stairs)
-* House Robber (Medium)
+* [House Robber (Medium)](0198-house-robber)
 * House Robber II (Medium)
 * Longest Palindromic Substring (Medium)
 * Palindromic Substrings (Medium)
